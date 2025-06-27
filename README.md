@@ -1,5 +1,7 @@
 # Web Technologies Cheatsheet
 
+> **Reference:** For a detailed explanation of every keyword and package used in the examples below, see [keywords-and-packages-explained.md](./keywords-and-packages-explained.md).
+
 A comprehensive guide for web development theory and practicals, from beginner to MERN stack. Includes conceptual explanations, code snippets, practice questions, and solutions.
 
 ---
